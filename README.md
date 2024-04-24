@@ -5,6 +5,6 @@ ___
 Contains malicious and harmful strings to defend against!!!
 ___
 ## File Description
-- vectorguard_llama2_pipeline.ipynb: Main Pipeline (vectorGuard)
-- vectorguard_utils.ipynb: Util functions used for data transformations
-- /data: Contains all datasets (Caution! Malicious and Harmful prompts)
+- `vectorguard_llama2_pipeline.ipynb`: Main Pipeline (vectorGuard)
+- `vectorguard_utils.ipynb`: Util functions used for data transformations
+- `/data`: Contains all datasets (Caution! Malicious and Harmful prompts)
